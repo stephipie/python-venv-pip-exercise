@@ -1,6 +1,5 @@
 # import libaries matplotlib and pandas
 import matplotlib.pyplot as plt
-from matplotlib import pyplot as plt
 import pandas as pd
 
 # Example-data: Numbers from 0 to 9 and their squares and cubes
